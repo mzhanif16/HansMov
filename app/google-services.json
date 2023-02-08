@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "642607246892",
+    "firebase_url": "https://hansmov-63739-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hansmov-63739",
+    "storage_bucket": "hansmov-63739.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642607246892:android:e7490f856a2eb9eb7dab89",
+        "android_client_info": {
+          "package_name": "com.movieapp.hansmov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642607246892-7q4rqd11f3li3r79gcooleotjo5lsl6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiFjO4HTek84V6btAvcbQrfAvur7xj4hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642607246892-7q4rqd11f3li3r79gcooleotjo5lsl6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

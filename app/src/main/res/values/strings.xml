@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HansMov</string>
+    <string name="lewati_perkenalan">Lewati Perkenalan</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="deskripsi">Lebih mudah untuk mengetahui\nfilm yang sedang tampil</string>
+    <string name="pre_sale">Pre Sale</string>
+    <string name="deskrip_presale">Tidak khawatir ketinggalan\nupdate film terbaru</string>
+    <string name="cashless">Cashless</string>
+    <string name="deskrip_cashless">Gunakan e-wallet untuk\ntransaksi tiket nonton</string>
+    <string name="memulai">Memulai</string>
+    <string name="edt_username">Username</string>
+    <string name="edt_password">Password</string>
+    <string name="daftar_akun_baru">Daftar Akun Baru</string>
+    <string name="masuk_akun">masuk akun</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="photo">Photo</string>
+    <string name="selamat_datang">Selamat Datang,\nHanif !</string>
+    <string name="desc_storyboard">The Avengers must stop Thanos. a mad Titan, and his\narmy away from getting their hands on all infinity stones.\nHowever,the mad Titan is prepared to go to any lengths\nto carry out his insane plan.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
